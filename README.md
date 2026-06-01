@@ -163,29 +163,6 @@ CREATE DATABASE wku_admission_system;
 ```text
 database/wku_admission_system.sql
 ```
-
----
-
-## Project Screenshots
-
-### Login Page
-
-* User authentication interface
-
-### Student Dashboard
-
-* Application management
-* Notification center
-
-### Admission Officer Dashboard
-
-* Application review workflow
-
-### Administrator Dashboard
-
-* Admission statistics
-* Application monitoring
-
 ---
 
 ## Future Improvements
@@ -203,12 +180,13 @@ database/wku_admission_system.sql
 ### Team Members
 
 * Qian Wang
-* Team Member 2
-* Team Member 3
-* Team Member 4
+* Jingwen Zheng
+* Yiyi Zhao
+* Yichun Liu
+* Qingqing Wu
 
 Wenzhou-Kean University
 
-CPS3962 Software Engineering Project
+CPS3962
 
 2026
